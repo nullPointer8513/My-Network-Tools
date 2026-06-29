@@ -1,0 +1,18 @@
+{
+    "dev": {
+        "debug": false,
+        "inert": false
+    },
+    "runtime": {
+        "permutations": [
+            "f",
+            "F",
+            "f-",
+            "F-",
+            "f:",
+            "F:",
+            "f.",
+            "F."
+        ]
+    }
+}
